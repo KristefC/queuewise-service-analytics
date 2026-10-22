@@ -1,0 +1,8 @@
+{
+  "source": "https://data.cityofnewyork.us/resource/erm2-nwe9.json",
+  "cohort_start": "2025-01-15T00:00:00",
+  "cohort_end_exclusive": "2025-01-16T00:00:00",
+  "retrieved_at_utc": "2026-10-22T22:36:30.066432+00:00",
+  "rows": 10110,
+  "scope": "Complete daily creation cohort at extraction time"
+}

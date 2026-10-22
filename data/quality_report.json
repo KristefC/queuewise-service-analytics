@@ -1,0 +1,11 @@
+{
+  "total_rows": 5000,
+  "unique_requests": 5000,
+  "missing_request_ids": 0,
+  "duplicate_request_ids": 0,
+  "invalid_created_dates": 0,
+  "missing_or_invalid_closed_dates": 27,
+  "negative_resolution_durations": 0,
+  "missing_agencies": 0,
+  "missing_categories": 0
+}
